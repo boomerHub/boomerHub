@@ -1,0 +1,9 @@
+[package]
+name = "teddy/boomerhub"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Koute = "koterahq/koute@1.0.3"
+fusion = "elttob/fusion@0.2.0"

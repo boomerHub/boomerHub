@@ -1,0 +1,17 @@
+{
+    "FormatVersion": 1,
+
+    "Output": {
+        "Directory": "return game.StarterPlayer.StarterPlayerScripts.Builds",
+        "ScriptName": "boomerHub",
+        "ScriptType": "LocalScript",
+
+        "MinifyTable": true,
+        "UseMinifiedLoader": true
+    },
+
+    "Flags": {
+        "ContextualExecution": true,
+        "ReturnMainModule": true
+    }
+}
