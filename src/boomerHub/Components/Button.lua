@@ -1,6 +1,7 @@
 -- Fusion
-local Fusion = require(script.Parent.Parent.Utils.Fusion);
-local New = Fusion.New
+local Packages = script.Parent.Parent.Packages;
+local Fusion = require(Packages.fusion);
+local New = Fusion.New;
 
 local function Button(props)
     return New "TextButton" {
